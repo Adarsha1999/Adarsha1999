@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-sourav%20dinda-yellow?style=social&logo=Instagram&link=https://www.instagram.com/souravdinda1/?hl=en/)](https://www.instagram.com/adarshadinda/) 
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/souravdinda/souravdinda/blob/main/118543317_1468296280020170_963459639370980030_n.jpg"> 
+  <img width="240" height="230" align='right' src="https://github.com/Adarsha1999/Adarsha1999/blob/main/74172720_2328630064056128_9008959744655753216_o.jpg"> 
 </p>
   
 ## About Me ✍
