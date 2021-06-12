@@ -5,8 +5,8 @@
 </p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Adarsha1999)
-[![Linkedin Badge](https://img.shields.io/badge/-sourav%20dinda-green?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sourav-dinda-8025491b7/)](https://www.linkedin.com/in/adarsha-dinda-174b1b147/)
-[![Instagram Badge](https://img.shields.io/badge/-sourav%20dinda-yellow?style=social&logo=Instagram&link=https://www.instagram.com/souravdinda1/?hl=en/)](https://www.instagram.com/adarshadinda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-adarsha%20dinda-green?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/adarsha-dinda-174b1b147/)](https://www.linkedin.com/in/adarsha-dinda-174b1b147/)
+[![Instagram Badge](https://img.shields.io/badge/-adarsha%20dinda-yellow?style=social&logo=Instagram&link=https://www.instagram.com/adarshadinda/?hl=en/)](https://www.instagram.com/adarshadinda/) 
 <div>
  <p>
   <img width="240" height="230" align='right' src="https://github.com/Adarsha1999/Adarsha1999/blob/main/74172720_2328630064056128_9008959744655753216_o.jpg"> 
@@ -31,13 +31,11 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
- [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
  
