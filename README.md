@@ -38,6 +38,8 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-blueviolet?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+ 
  
  ## My Hobbies ✍
 
