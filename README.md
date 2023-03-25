@@ -54,19 +54,19 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
  
  ## Quick Overview 📝
  
- <a href="https://github.com/souravdinda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=souravdinda&show_icons=true&include_all_commits=true&theme=radical" alt="Sourav's github stats" />
+ <a href="https://github.com/adarshadinda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Adarsha1999&show_icons=true&include_all_commits=true&theme=radical" alt="Sourav's github stats" />
 </a>
-<a href="https://github.com/souravdinda/github-readme-stats">
+<a href="https://github.com/adarshadinda/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=souravdinda&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Adarsha1999&layout=compact&theme=radical" />
 </a>
 
 ###
 
 <b>My GitHub contributions as a Game of Life</b>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/souravdinda.gif?z=6)](https://github4life.herokuapp.com/souravdinda)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Adarsha1999.gif?z=6)](https://github4life.herokuapp.com/Adarsha1999)
 
 ##
 
